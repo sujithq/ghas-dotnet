@@ -1,0 +1,40 @@
+---
+sourceLocationPrefix: C:\Users\SujithQuintelier\source\repos\GitHub\sujithq\ghas-dotnet
+baselineLinesOfCode: 14
+unicodeNewlines: false
+columnKind: utf16
+primaryLanguage: csharp
+inProgress:
+  primaryLanguage: csharp
+  installedExtractors:
+    cpp:
+     - C:/tools/codeql/cpp
+    csharp:
+     - C:/tools/codeql/csharp
+    csv:
+     - C:/tools/codeql/csv
+    go:
+     - C:/tools/codeql/go
+    html:
+     - C:/tools/codeql/html
+    java:
+     - C:/tools/codeql/java
+    javascript:
+     - C:/tools/codeql/javascript
+    properties:
+     - C:/tools/codeql/properties
+    python:
+     - C:/tools/codeql/python
+    ruby:
+     - C:/tools/codeql/ruby
+    swift:
+     - C:/tools/codeql/swift
+    xml:
+     - C:/tools/codeql/xml
+    yaml:
+     - C:/tools/codeql/yaml
+creationMetadata:
+  sha: 821aa08363e0dc4e6f1553144df18aa22c064b21
+  cliVersion: 2.17.0
+  creationTime: 2024-04-22T06:18:51.140699200Z
+finalised: false
