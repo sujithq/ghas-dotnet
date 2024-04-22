@@ -3,6 +3,7 @@ using Azure.Core;
 using Azure.Security.KeyVault.Secrets;
 
 Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
 
 SecretClientOptions options = new()
 {
@@ -13,3 +14,5 @@ SecretClientOptions options = new()
         Mode = RetryMode.Fixed
     }
 };
+
+
